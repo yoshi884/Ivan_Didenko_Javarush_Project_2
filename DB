@@ -1,0 +1,83 @@
+#Animals(MAC - max at one cell)
+#Mon Jun 12 12:55:43 EEST 2023
+
+WolfWeight = 50
+WolfMAC = 30
+WolfMoving = 3
+WolfSaturation = 8
+
+PythonWeight=15
+PythonMAC=30
+PythonMoving=1
+PythonSaturation=3
+
+FoxWeight=8
+FoxMAC=30
+FoxMoving=2
+FoxSaturation=2
+
+BearWeight=500
+BearMAC=5
+BearMoving=2
+BearSaturation=80
+
+EagleWeight=6
+EagleMAC=20
+EagleMoving=3
+EagleSaturation=1
+
+HorseWeight=400
+HorseMAC=20
+HorseMoving=4
+HorseSaturation=60
+
+DeerWeight=300
+DeerMAC=20
+DeerMoving=4
+DeerSaturation=50
+
+RabbitWeight=2
+RabbitMAC=150
+RabbitMoving=2
+RabbitSaturation = 0.45
+
+MouseWeight=0.05
+MouseMAC=500
+MouseMoving=1
+MouseSaturation=0.01
+
+GoatWeight=60
+GoatMAC=140
+GoatMoving=3
+GoatSaturation=10
+
+SheepWeight=70
+SheepMAC=140
+SheepMoving=3
+SheepSaturation=15
+
+BoarWeight=400
+BoarMAC=50
+BoarMoving=2
+BoarSaturation=50
+
+BuffaloWeight=700
+BuffaloMAC=10
+BuffaloMoving=3
+BuffaloSaturation=100
+
+DuckWeight=1
+DuckMAC=200
+DuckMoving=4
+DuckSaturation=0.15
+
+CaterpillarWeight=0.01
+CaterpillarMAC=1000
+CaterpillarMoving=0
+CaterpillarSaturation=0
+
+GrassWeight=1
+GrassMAC=200
+
+BananaWeight=1
+BananaMAC=1000
